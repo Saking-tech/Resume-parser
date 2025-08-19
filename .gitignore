@@ -68,3 +68,5 @@ deployment_info.json
 # Temporary files
 *.tmp
 *.temp
+
+.vercel
